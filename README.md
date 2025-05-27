@@ -1,5 +1,5 @@
 # AI Computer Vision
-# 🖥️ AI Computer Vision
+# 💼 AI Computer Vision
 
 ## 📌 Overview
 This project focuses on **computer vision techniques using AI**, leveraging **deep learning, image processing, and object recognition** to enable automated **visual understanding and analysis**.
